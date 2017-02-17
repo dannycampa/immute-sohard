@@ -1,0 +1,28 @@
+{
+  "name": "immute-sohard",
+  "version": "1.0.0",
+  "description": "Immutability helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "immutability",
+    "redux",
+    "react",
+    "flux"
+  ],
+  "author": "dannycampa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dannycampa/immute-sohard.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.52",
+    "typescript": "^2.1.6"
+  }
+}
